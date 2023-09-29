@@ -14,7 +14,8 @@
      2. pay-java-web-support  web支持包，目前已实现回调相关
      2. pay-java-demo  具体的支付demo
      3. pay-java-*  具体的支付实现库
-     
+     4.还没想好
+
 ### Maven配置
 具体支付模块 "{module-name}" 为具体的支付渠道的模块名 pay-java-ali，pay-java-wx等
 
